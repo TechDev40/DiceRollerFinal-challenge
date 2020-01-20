@@ -1,0 +1,4 @@
+#Mon Jan 20 10:16:34 IST 2020
+base.0=C\:\\Users\\User\\StudioProjects\\android-kotlin-fundamentals-apps-master\\DiceRollerFinal-challenge\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
