@@ -7,7 +7,7 @@ Image resources and compatiblity.
 Introduction
 ------------
 
-DiceRollerFinal-challenge adds onto DiceRollerFinal with two dice that are rolled
+DiceRollerFinal-challenge adds onto DiceRollerFinal with Six dice that are rolled
 independently.
 
 
